@@ -2,6 +2,7 @@ import pickle
 import pandas as pd
 import requests
 import streamlit as st
+import gzip
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
